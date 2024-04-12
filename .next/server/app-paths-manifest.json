@@ -1,0 +1,7 @@
+{
+  "/(back-office)/dashboard/(catalog)/coupons/new/page": "app/(back-office)/dashboard/(catalog)/coupons/new/page.js",
+  "/(back-office)/dashboard/(catalog)/products/page": "app/(back-office)/dashboard/(catalog)/products/page.js",
+  "/(back-office)/dashboard/(catalog)/coupons/page": "app/(back-office)/dashboard/(catalog)/coupons/page.js",
+  "/(back-office)/dashboard/suppliers/new/page": "app/(back-office)/dashboard/suppliers/new/page.js",
+  "/(back-office)/dashboard/page": "app/(back-office)/dashboard/page.js"
+}

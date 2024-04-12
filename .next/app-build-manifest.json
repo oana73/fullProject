@@ -1,0 +1,75 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(front-end)/register/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/register/page.js"
+    ],
+    "/(front-end)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/page.js"
+    ],
+    "/(front-end)/register-supplier/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/register-supplier/page.js"
+    ],
+    "/(back-office)/dashboard/staff/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/staff/page.js"
+    ],
+    "/(back-office)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/layout.js"
+    ],
+    "/(back-office)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/page.js"
+    ],
+    "/(back-office)/dashboard/(catalog)/products/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/(catalog)/products/page.js"
+    ],
+    "/(back-office)/dashboard/(catalog)/categories/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/(catalog)/categories/page.js"
+    ],
+    "/(back-office)/dashboard/(catalog)/coupons/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/(catalog)/coupons/page.js"
+    ],
+    "/(back-office)/dashboard/(catalog)/coupons/new/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/(catalog)/coupons/new/page.js"
+    ],
+    "/(front-end)/onboarding/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/onboarding/[id]/page.js"
+    ],
+    "/(back-office)/dashboard/suppliers/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/suppliers/page.js"
+    ],
+    "/(back-office)/dashboard/suppliers/new/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/suppliers/new/page.js"
+    ]
+  }
+}
